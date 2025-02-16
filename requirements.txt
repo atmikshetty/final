@@ -1,0 +1,13 @@
+streamlit
+pandas
+plotly
+wordcloud
+textblob
+spacy==3.5.0
+thinc==8.1.0
+scipy
+numpy==1.23.5
+matplotlib
+requests
+regex
+cython==0.29.36
